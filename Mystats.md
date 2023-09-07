@@ -16,3 +16,13 @@ i am very intrested to complte my mastes in computer science and get a job as da
 | Badminton | Serve | 6 |
 
 ***
+
+# Quotations
+
+> If you can’t explain it simply, you don’t understand it well enough. — *Albert Einstein*
+>
+> In the end you should only measure and look at the numbers that drive action, meaning that the data   tells you what you should do next.— *Alexander Peiniger*
+ 
+***
+
+
