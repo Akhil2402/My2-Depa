@@ -25,4 +25,25 @@ i am very intrested to complte my mastes in computer science and get a job as da
  
 ***
 
+# Code Fencing
+
+> display a user gravatar from an email address
+
+URL: https://www.geeksforgeeks.org/measuring-script-execution-time-in-php/
+
+
+```
+$execution_time = microtime(); // Start counting
+
+// Your code
+
+$execution_time = microtime() - $execution_time;
+printf('It took %.5f sec', $execution_time);
+
+
+```
+CSS_tricks- https://css-tricks.com/snippets/php/count-script-excecution-time/
+
+
+
 
