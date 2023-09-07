@@ -23,4 +23,6 @@ lot of **beaches** and **Quality** time
 * Prawn balchao
 * Kingfish
 
+https://vscode.dev/github/Akhil2402/My2-Depa/blob/main/Mystats.md
+
 
