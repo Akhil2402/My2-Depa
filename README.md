@@ -16,7 +16,7 @@ lot of **beaches** and **Quality** time
 
 ***
 
-Eateries in Goa
+# Eateries in Goa
 
 * Goan Fish Curry
 * Crab
